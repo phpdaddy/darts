@@ -1,0 +1,1 @@
+ndk-build NDK_MODULE_PATH=D:/Общие документы/Курсовая ДАРТС/Oxygine Engine/ %*

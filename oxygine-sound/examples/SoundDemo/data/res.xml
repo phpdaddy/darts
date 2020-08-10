@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<resources>
+  <set path = "images" />
+  <atlas> 
+    <image file="dartboard.png"/>
+    <image file="background.png"/>
+    <image file="dart.png"/>
+    <image file="menuBackground.png"/>
+    <image file="aim.png"/>
+    <image file="button_transparent.png"/>
+    <image file="mainmenucursor.png"/>
+    <image file="scoreTable.png"/>
+    <image file="slider_bot.png"/>
+    <image file="slider_top.png"/>
+    <image file="slider_mid.png"/>
+    <image file="slider_container.png"/>
+  </atlas>
+
+  <set path = "fonts"/>
+  <font file="imprint_mt_62.fnt"/>
+  <font file="imprint_mt_46.fnt"/>
+  <font file="imprint_mt_32.fnt"/>
+
+
+  <set path = "sounds"/>
+  <sound file="casinomusic.ogg"/>
+  <sound file="dartspullout.ogg"/>
+  <sound file="dartsound1.ogg"/>
+  <sound file="dartsound2.ogg"/>
+  <sound file="buttonclicksound.ogg"/>
+
+</resources>

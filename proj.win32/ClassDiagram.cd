@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MainActor" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAQAAAAAAgCAAABAAAIAAAAABAAASA=</HashCode>
+      <FileName>C:\wd\darts\src\App.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\AI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dartboard" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAACAAAIIAACAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\Dartboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAAAEBAkAAAASAAAAAYAESAjEAAIAABAgEYAAACA=</HashCode>
+      <FileName>C:\wd\darts\src\Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\GameProcess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Throw" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\GameProcess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turn" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\GameProcess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Leg" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAQAIAAAICoAAAAAAAAAAAAAAAAAAAAACI=</HashCode>
+      <FileName>C:\wd\darts\src\GameProcess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Set" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAABCAAAAEAABAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\GameProcess.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEBAAEAEAAAAAIAAACAIAAIAAAgAAQAggAA=</HashCode>
+      <FileName>C:\wd\darts\src\Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Range" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAACAAgAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\Range.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealPlayer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\RealPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scoretable" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAACABAACAAEAEQAAAgAAAICAQgAAIAAAAAAAAQAAQ=</HashCode>
+      <FileName>C:\wd\darts\src\Scoretable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slider" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAggAAAAQAAIAAAAAIAABAAAAEAAAAAAIRAA=</HashCode>
+      <FileName>C:\wd\darts\src\Slider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Target" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQCEgCAAQgAAUAAECETAAAAAACAIAAAAAQgAAEAU=</HashCode>
+      <FileName>C:\wd\darts\src\Target.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="spMainActor" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\App.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="spGame" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\Game.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="spMenu" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\Menu.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="spScoretable" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\Scoretable.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="spSlider" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\Slider.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="spTarget" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\Target.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="GameState" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>C:\wd\darts\src\Globals.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameTurn" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAAAg=</HashCode>
+      <FileName>C:\wd\darts\src\Globals.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
